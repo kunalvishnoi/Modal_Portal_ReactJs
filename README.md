@@ -5,3 +5,5 @@ This is an example of how you might use React.createPortal. I think it is a pret
 HOC example to create a counter on click and on mouse over. Live at https://codesandbox.io/s/wkwj7nomn7
 # Forward Ref
 Forward ref example to autofocus input field from another component. Live at https://codesandbox.io/s/w5xrqrl07
+# Render Props
+Render Props to create a counter on click and mouse over. Live at https://codesandbox.io/s/zr81q3x8lx
