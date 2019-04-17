@@ -7,3 +7,5 @@ HOC example to create a counter on click and on mouse over. Live at https://code
 Forward ref example to autofocus input field from another component. Live at https://codesandbox.io/s/w5xrqrl07
 # Render Props
 Render Props to create a counter on click and mouse over. Live at https://codesandbox.io/s/zr81q3x8lx
+# Context API
+COntext API as a alternative of Redux is used to pass value to depp descent child of a parent easily. Live at https://codesandbox.io/s/648jr9qy6z 
