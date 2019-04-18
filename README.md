@@ -10,4 +10,6 @@ Render Props to create a counter on click and mouse over. Live at https://codesa
 # Context API
 COntext API as a alternative of Redux is used to pass value to depp descent child of a parent easily. Live at https://codesandbox.io/s/648jr9qy6z 
 # Use of Axios
-FOr HTTP request of GET and POST use axios in react. Live at https://codesandbox.io/s/l54w5797z7
+For HTTP request of GET and POST use axios in react. Live at https://codesandbox.io/s/l54w5797z7
+# Dynamic Routing with save scroll
+Problem of visiting a particular list detai by dynamic routing and on back get to same scroll value. Live at https://codesandbox.io/s/rlp8l6jz7m
