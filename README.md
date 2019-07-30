@@ -37,3 +37,8 @@ https://codesandbox.io/s/basic-of-hooks-i7v3d
 
 Basics of useEffect using in mounting , unmounting , and only specific state change conditions. Live at
 https://codesandbox.io/s/useeffect-in-hooks-e9e4e
+
+#useContext Hoos
+
+In React Hooks continuation next one is UseContext hook which ease consumption of any value by context provider.Live at
+https://codesandbox.io/s/usecontext-hook-09gjc
