@@ -38,7 +38,10 @@ https://codesandbox.io/s/basic-of-hooks-i7v3d
 Basics of useEffect using in mounting , unmounting , and only specific state change conditions. Live at
 https://codesandbox.io/s/useeffect-in-hooks-e9e4e
 
-#useContext Hoos
+#useContext Hooks
 
 In React Hooks continuation next one is UseContext hook which ease consumption of any value by context provider.Live at
 https://codesandbox.io/s/usecontext-hook-09gjc
+
+#useReducer Hooks
+In React useReducer HOoks is used for state management but it is different from useState. It is different from useSTate as we can make object of actions as well
